@@ -13,6 +13,7 @@ My projects bridge the gap between research and impact — from automating surve
 ### 📬 Let’s Connect
 - 📧 [brucearhin098@gmail.com](mailto:brucearhin098@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+- 🔑 [Portfolio](https://www.kaggle.com/brucearhin)
 
 
 Thanks for stopping by! Let’s build something smart.
